@@ -1,0 +1,15 @@
+enable : true
+heading : Sobre o
+headingSpan : evento
+aboutItem : 
+- icon : tf-tools
+  title : "Muito legal 3"
+  content : esse é o texto que aparece
+
+- icon : tf-strategy
+  title : "Nota 10"
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-anchor2
+  title : "Ainda mais Legal"
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
