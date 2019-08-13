@@ -18,29 +18,29 @@ summaryLength = 10
     weight = 2
 
     [[menu.nav]]
-    name = "Programação"
+    name = "Apoio"
     URL = "portfolio"
     weight = 6
 
     [[menu.nav]]
     name = "Inscrições"
     URL = "pricing"
-    weight = 6
+    weight = 8
 
     [[menu.nav]]
-    name = "Apoio"
+    name = "Programação"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
     name = "Contato"
     URL = "contact-us"
-    weight = 8
+    weight = 9
 
     [[menu.nav]]
     name = "Comissão Organizadora"
     URL = "our-team"
-    weight = 5
+    weight = 7
 
 # Site params
 [params]
@@ -57,45 +57,13 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/header.jpg"
     #icon = "tf-ion-play"
     heading = "aMostra IME-USP 2019"
     content= "Venha conhecer..."
     btn = true
     btnText="Explorar"
     btnURL="#services"
-
-    # call to action
-    [params.cta]
-    enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
-    btnText = "Start a project with us"
-
-    # counter
-    [params.counter]
-    enable = true
-    bgImage = "images/backgrounds/bg-1.jpg"
-        [[params.counter.counterItem]]
-        title = "Happy Clients"
-        icon = "tf-ion-android-happy"
-        count = "320"
-
-        [[params.counter.counterItem]]
-        title = "Projects completed"
-        icon = "tf-ion-archive"
-        count = "565"
-
-        [[params.counter.counterItem]]
-        title = "Positive feedback"
-        icon = "tf-ion-thumbsup"
-        count = "95"
-
-        [[params.counter.counterItem]]
-        title = "Cups of Coffee"
-        icon = "tf-ion-coffee"
-        count = "2500"
 
     # footer
     [params.footer]

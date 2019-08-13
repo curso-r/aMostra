@@ -1,26 +1,26 @@
 enable : true
-heading : Our
-headingSpan : Skills
-title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+heading : Temas
+headingSpan : Escolhidos
+title : Palestras escolhidas pelos alunos
+content : "Durante o ano, coletamos informações sobre as palestras mais desejadas pelaos alunos. Aqui estão as que foram mais escolhidas."
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
-    itemName :  Business Development
+    itemName :  "Machine Learning"
     itemPercent : 90%
     
   - itemNumber : 02-
-    itemName :  Analysis
+    itemName :  "Regressão"
     itemPercent : 70%
     
   - itemNumber : 03-
-    itemName :  Design
+    itemName :  "Programação"
     itemPercent : 80%
     
   - itemNumber : 04-
-    itemName :  IOS Development
+    itemName :  "Educação"
     itemPercent : 95%
     
   - itemNumber : 05-
-    itemName :  Andriod Development
+    itemName :  "Outro"
     itemPercent : 75%

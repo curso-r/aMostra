@@ -3,13 +3,13 @@ heading : Sobre o
 headingSpan : evento
 aboutItem : 
 - icon : tf-tools
-  title : "Muito legal 3"
-  content : esse é o texto que aparece
+  title : "16 à 20 de Setembro"
+  content : 
 
 - icon : tf-strategy
-  title : "Nota 10"
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : "3 oficinas"
+  content : 
 
 - icon : tf-anchor2
-  title : "Ainda mais Legal"
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : "+20 palestrantes"
+  content : 

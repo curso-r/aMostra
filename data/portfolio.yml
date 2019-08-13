@@ -1,15 +1,6 @@
 enable : true
-heading : Our
-headingSpan : Works
-filterList :
-  - filterType : photography
-    filterTitle : Photography
-    
-  - filterType : design
-    filterTitle : Design
-    
-  - filterType : development
-    filterTitle : Development
+heading : Nossos
+headingSpan : Apoiadores
 
 portfolioItem :
   - types : design

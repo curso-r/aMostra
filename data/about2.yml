@@ -1,13 +1,5 @@
 enable : true
-image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-aboutItem : 
-  - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-    
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+image : images/about/CursoR.jpg
+title : Sobre.
+description : "A aMostra é um evento anualmente organizado por estudantes do curso de Estatística do IME-USP e apoiado pelo prof Victor Fossaluza, com o intuito de discutir assuntos da área relacionados tanto ao mercado de trabalho quanto à academia por meio de palestras, mesas redondas e minicursos, durante uma semana."
+description2 : "Este ano teremos a 13ª aMostra, que vai ocorrer nos dias 01, 02, 03, 04 e 05 de outubro das 10h00 às 19h00 no auditório Jacy Monteiro do Instituto de Matemática e Estatística da Universidade de São Paulo. A aMostra tem a preocupação de exibir temas bem variados, então vale a pena conferir a programação."
