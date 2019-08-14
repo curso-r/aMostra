@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on aMostra Estatística</title>
-    <link>/categories/</link>
+    <link>/~amostra/categories/</link>
     <description>Recent content in Categories on aMostra Estatística</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/~amostra/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>/~amostra/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>/~amostra/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starting</title>
-      <link>/categories/starting/</link>
+      <link>/~amostra/categories/starting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/starting/</guid>
+      <guid>/~amostra/categories/starting/</guid>
       <description></description>
     </item>
     

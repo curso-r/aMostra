@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.ime.usp.br/~amostra/"
 languageCode = "pt-BR"
 DefaultContentLanguage = "pt"
 title = "aMostra Estatística"
