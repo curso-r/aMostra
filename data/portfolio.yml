@@ -3,65 +3,42 @@ heading : Nossos
 headingSpan : Apoiadores
 
 portfolioItem :
-  - types : design
-    image : images/portfolio/portfolio-1.jpg
+  - types :
+    image : images/portfolio/abe2.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : "http://www.redeabe.org.br/site/"
+    title : "Associação Brasileira de Estatística"
+    description : "Para mais informações sobre este apoiador, clique em seu nome."
     
-  - types : development
-    image : images/portfolio/portfolio-2.jpg
+  - types :
+    image : images/portfolio/logo_IMEJR.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Sound system
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : "https://www.ime.usp.br/imejr/"
+    title : "IME-Jr"
+    description : "Para mais informações sobre este apoiador, clique em seu nome."
     
-  - types : design, development
-    image : images/portfolio/portfolio-3.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Clock Product
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : photography, development
-    image : images/portfolio/portfolio-4.jpg
+  - types : 
+    image : images/portfolio/imeusp2.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Bottol Label
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : "https://www.ime.usp.br"
+    title : "IME-USP"
+    description : "Para mais informações sobre este apoiador, clique em seu nome."
     
-  - types : design
-    image : images/portfolio/portfolio-5.jpg
+        
+  - types : 
+    image : images/portfolio/logo_Market.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Shopping Bag
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : "http://www.marketdata.com.br/"
+    title : "MarketData"
+    description : "Para mais informações sobre este apoiador, clique em seu nome."
     
-  - types : photography
-    image : images/portfolio/portfolio-6.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : development
-    image : images/portfolio/portfolio-7.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Business Card
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design, development
-    image : images/portfolio/portfolio-8.jpg
+  - types :
+    image : images/portfolio/conre.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Stationary Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : design, photography
-    image : images/portfolio/portfolio-2.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : "https://www.conre3.org.br/"
+    title : "Conselho Regional de Estatística – 3ª Região"
+    description : "Para mais informações sobre este apoiador, clique em seu nome."
+   

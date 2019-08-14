@@ -4,28 +4,115 @@ headingSpan :
 serviceItem :
   - icon : tf-globe
     title : 16/09
-    content : Palestra1
-    hour : "11 - 12"
-    speaker : "Pessoa 1"
-    content2 : Palestra2
-    hour2 : "11 - 12"
-    speaker2 : "Pessoa 1"
+    content : "Redes soma-produto: Redes neurais probabilísticas para estimação de densidades de alta dimensionalidade"
+    hour : "10h - 11h"
+    speaker : "Denis Mauá"
+    
+    content2 : "Em Breve"
+    hour2 : "11h - 12h"
+    speaker2 : "Em Breve"
+    
+    content3 : "Modelagem Estatística do Punitivismo Prisional Brasileiro"
+    hour3 : "14h - 15h"
+    speaker3 : "Vinicius Israel"
+    
+    content4 : "Machine Learning na Porto Seguro"
+    hour4 : "15h - 16h"
+    speaker4 : "Porto Seguro"
+    
+    content5 : "Em Breve"
+    hour5 : "16h30 - 19h"
+    speaker5 : "Em Breve - Minicurso"
     
     
   - icon : tf-ion-laptop
     title : 17/09
-    content : Palestra1
+    content : "Em Breve"
+    hour : "10h - 11h"
+    speaker : "Em Breve"
+    
+    content2 : "Em Breve"
+    hour2 : "11h - 12h"
+    speaker2 : "Em Breve"
+    
+    content3 : "Exposição dos trabalhos"
+    hour3 : "14h - 15h"
+    speaker3 : "Alunos do CEA"
+    
+    content4 : "Aplicação de Técnicas Estatísticas no Mercado de Trabalho: Case de Seguradora e Varejo"
+    hour4 : "15h - 16h"
+    speaker4 : "Marketdata"
+    
+    content5 : "Em Breve"
+    hour5 : "16h30 - 19h"
+    speaker5 : "Em Breve - Minicurso"
+    
+  
     
   - icon : tf-genius
     title : 18/09
-    content : Palestra1
+    content : "A decomposição em viés e variância e sua implicação na seleção de modelos"
+    hour : "10h - 11h"
+    speaker : "Florência Leonardi"
+    
+    content2 : "Em Breve"
+    hour2 : "11h - 12h"
+    speaker2 : "Lucas Damiani"
+    
+    content3 : "Em Breve"
+    hour3 : "14h - 15h"
+    speaker3 : "João Maurício"
+    
+    content4 : "Machine Learning no contexto de crédito: desenvolvimento e monitoramento"
+    hour4 : "15h - 16h"
+    speaker4 : "SCPC Boa Vista"
+    
+    content5 : "Em Breve"
+    hour5 : "16h30 - 19h"
+    speaker5 : "R-Ladies"
+    
+
     
   - icon : tf-dial
     title : 19/09
-    content : Palestra1
+    content : "Em Breve"
+    hour : "10h - 11h"
+    speaker : "Juka"
+    
+    content2 : "Em Breve"
+    hour2 : "11h - 12h"
+    speaker2 : "Natalia Souza"
+    
+    content3 : "Em Breve"
+    hour3 : "14h - 15h"
+    speaker3 : "Em Breve"
+    
+    content4 : "Etapas no desenvolvimento de um modelo preditivo"
+    hour4 : "15h - 16h"
+    speaker4 : "DataRisk"
+    
+    content5 : "Em Breve"
+    hour5 : "16h30 - 19h"
+    speaker5 : "Em Breve - Minicurso"
+
     
   - icon : tf-target3
     title : 20/09
-    content : Palestra1
+    content : "Saúde mental dos alunos na Estatística"
+    hour : "10h - 11h"
+    speaker : "Mesa Redonda"
+    
+    content2 : "Saúde mental dos alunos na Estatística"
+    hour2 : "11h - 12h"
+    speaker2 : "Mesa Redonda"
+    
+    content3 : "Em Breve"
+    hour3 : "14h - 15h"
+    speaker3 : "Mayumi Sato"
+    
+    content4 : "Em Breve"
+    hour4 : "15h - 16h"
+    speaker4 : "IBM"
+    
     
  

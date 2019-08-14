@@ -1,26 +1,18 @@
 enable : true
-heading : Temas
-headingSpan : Escolhidos
+heading : "Temas"
+headingSpan : "Escolhidos"
 title : Palestras escolhidas pelos alunos
-content : "Durante o ano, coletamos informações sobre as palestras mais desejadas pelaos alunos. Aqui estão as que foram mais escolhidas."
-image : images/about/company-growth.png
+content : "Durante o ano de 2019, coletamos informações sobre as palestras mais desejadas pelos alunos. Aqui estão as que foram mais escolhidas."
 skillItem :
   - itemNumber : 01-
-    itemName :  "Machine Learning"
-    itemPercent : 90%
+    itemName :  "Estatística e progamação"
+    itemPercent : 60%
     
   - itemNumber : 02-
-    itemName :  "Regressão"
-    itemPercent : 70%
+    itemName :  "Ciência de dados"
+    itemPercent : 40%
     
   - itemNumber : 03-
-    itemName :  "Programação"
-    itemPercent : 80%
+    itemName :  "Machine Learning"
+    itemPercent : 30%
     
-  - itemNumber : 04-
-    itemName :  "Educação"
-    itemPercent : 95%
-    
-  - itemNumber : 05-
-    itemName :  "Outro"
-    itemPercent : 75%

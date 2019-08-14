@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "pt-BR"
 DefaultContentLanguage = "pt"
-title = "aMostra IME-USP"
+title = "aMostra Estatística"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -37,10 +37,6 @@ summaryLength = 10
     URL = "contact-us"
     weight = 9
 
-    [[menu.nav]]
-    name = "Comissão Organizadora"
-    URL = "our-team"
-    weight = 7
 
 # Site params
 [params]
@@ -48,7 +44,7 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "aMostra IME-USP 2019"
+description = "aMostra Estatística 2019"
 author = "IME"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -59,10 +55,10 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/header.jpg"
     #icon = "tf-ion-play"
-    heading = "aMostra IME-USP 2019"
+    heading = "aMostra Estatística 2019"
     content= "Venha conhecer..."
     btn = true
-    btnText="Explorar"
+    btnText="Programação"
     btnURL="#services"
 
     # footer
@@ -73,28 +69,12 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
+        url = "https://www.facebook.com/aMostraEstatistica/"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
+        url = "https://www.youtube.com/channel/UCargFh7dj6ZtDcCNlw30F-w"
 
         [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
+        icon = "tf-ion-social-instagram"
         url = "#"
